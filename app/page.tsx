@@ -65,7 +65,7 @@ export default function Home() {
           projectkit<span className="text-cyan-400">.org</span>
         </span>
         <a
-          href="https://github.com/projectkit-org"
+          href="https://github.com/ProjectKitOrg/projectkit.org"
           target="_blank"
           rel="noopener noreferrer"
           className="text-sm text-zinc-400 hover:text-white transition-colors"
@@ -184,7 +184,7 @@ export default function Home() {
         <p>
           ProjectKit is open source and community-driven. •{" "}
           <a
-            href="https://github.com/projectkit-org"
+            href="https://github.com/ProjectKitOrg/projectkit.org"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-zinc-400 transition-colors"
